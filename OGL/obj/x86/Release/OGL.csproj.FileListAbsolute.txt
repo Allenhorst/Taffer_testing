@@ -1,0 +1,10 @@
+C:\Users\Александр\Desktop\lab3(CG)ver1\OGL\bin\Release\OGL.exe
+C:\Users\Александр\Desktop\lab3(CG)ver1\OGL\bin\Release\OGL.pdb
+C:\Users\Александр\Desktop\lab3(CG)ver1\OGL\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Александр\Desktop\lab3(CG)ver1\OGL\obj\x86\Release\OGL.Form1.resources
+C:\Users\Александр\Desktop\lab3(CG)ver1\OGL\obj\x86\Release\OGL.Properties.Resources.resources
+C:\Users\Александр\Desktop\lab3(CG)ver1\OGL\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Александр\Desktop\lab3(CG)ver1\OGL\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Александр\Desktop\lab3(CG)ver1\OGL\obj\x86\Release\OGL.exe
+C:\Users\Александр\Desktop\lab3(CG)ver1\OGL\obj\x86\Release\OGL.pdb
+C:\Users\Александр\Desktop\lab3(CG)ver1\OGL\bin\Release\OGL.exe.config

@@ -1,0 +1,121 @@
+c:\users\александр\documents\visual studio 2010\Projects\OGL\OGL\bin\Debug\OGL.exe
+c:\users\александр\documents\visual studio 2010\Projects\OGL\OGL\bin\Debug\OGL.pdb
+c:\users\александр\documents\visual studio 2010\Projects\OGL\OGL\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\александр\documents\visual studio 2010\Projects\OGL\OGL\obj\x86\Debug\OGL.Properties.Resources.resources
+c:\users\александр\documents\visual studio 2010\Projects\OGL\OGL\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\александр\documents\visual studio 2010\Projects\OGL\OGL\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\александр\documents\visual studio 2010\Projects\OGL\OGL\obj\x86\Debug\OGL.exe
+c:\users\александр\documents\visual studio 2010\Projects\OGL\OGL\obj\x86\Debug\OGL.pdb
+C:\Users\Александр\documents\visual studio 2010\Projects\OGL\OGL\obj\x86\Debug\OGL.Form1.resources
+C:\Users\Александр\Desktop\OGL\OGL\obj\x86\Debug\OGL.exe
+C:\Users\Александр\Desktop\OGL\OGL\obj\x86\Debug\OGL.pdb
+C:\Users\Александр\Desktop\OGL\OGL\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Александр\Desktop\OGL\OGL\obj\x86\Debug\OGL.Form1.resources
+C:\Users\Александр\Desktop\OGL\OGL\obj\x86\Debug\OGL.Properties.Resources.resources
+C:\Users\Александр\Desktop\OGL\OGL\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Александр\Desktop\OGL\OGL\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Александр\Desktop\OGL\OGL\bin\Debug\OGL.exe
+C:\Users\Александр\Desktop\OGL\OGL\bin\Debug\OGL.pdb
+D:\iate\7 семестр\КГ\Лабораторные работы\lab2(CG)ver1\OGL\obj\x86\Debug\OGL.exe
+D:\iate\7 семестр\КГ\Лабораторные работы\lab2(CG)ver1\OGL\obj\x86\Debug\OGL.pdb
+D:\iate\7 семестр\КГ\Лабораторные работы\lab2(CG)ver1\OGL\bin\Debug\OGL.exe
+D:\iate\7 семестр\КГ\Лабораторные работы\lab2(CG)ver1\OGL\bin\Debug\OGL.pdb
+D:\iate\7 семестр\КГ\Лабораторные работы\lab2(CG)ver1\OGL\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\iate\7 семестр\КГ\Лабораторные работы\lab2(CG)ver1\OGL\obj\x86\Debug\OGL.Form1.resources
+D:\iate\7 семестр\КГ\Лабораторные работы\lab2(CG)ver1\OGL\obj\x86\Debug\OGL.Properties.Resources.resources
+D:\iate\7 семестр\КГ\Лабораторные работы\lab2(CG)ver1\OGL\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\iate\7 семестр\КГ\Лабораторные работы\lab2(CG)ver1\OGL\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Александр\Desktop\lab3(CG)ver1\OGL\bin\Debug\OGL.exe.config
+C:\Users\Александр\Desktop\lab3(CG)ver1\OGL\bin\Debug\OGL.exe
+C:\Users\Александр\Desktop\lab3(CG)ver1\OGL\bin\Debug\OGL.pdb
+C:\Users\Александр\Desktop\lab3(CG)ver1\OGL\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Александр\Desktop\lab3(CG)ver1\OGL\obj\x86\Debug\OGL.Form1.resources
+C:\Users\Александр\Desktop\lab3(CG)ver1\OGL\obj\x86\Debug\OGL.Properties.Resources.resources
+C:\Users\Александр\Desktop\lab3(CG)ver1\OGL\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Александр\Desktop\lab3(CG)ver1\OGL\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Александр\Desktop\lab3(CG)ver1\OGL\obj\x86\Debug\OGL.exe
+C:\Users\Александр\Desktop\lab3(CG)ver1\OGL\obj\x86\Debug\OGL.pdb
+D:\iate\7 семестр\КГ\Лабораторные работы\lab3(CG)ver1\OGL\bin\Debug\OGL.exe.config
+D:\iate\7 семестр\КГ\Лабораторные работы\lab3(CG)ver1\OGL\obj\x86\Debug\OGL.exe
+D:\iate\7 семестр\КГ\Лабораторные работы\lab3(CG)ver1\OGL\obj\x86\Debug\OGL.pdb
+C:\Users\Александр\Desktop\цууцукц\OGL\bin\Debug\OGL.exe.config
+C:\Users\Александр\Desktop\цууцукц\OGL\obj\x86\Debug\OGL.exe
+C:\Users\Александр\Desktop\цууцукц\OGL\obj\x86\Debug\OGL.pdb
+C:\Users\Александр\Desktop\цууцукц\OGL\bin\Debug\OGL.exe
+C:\Users\Александр\Desktop\цууцукц\OGL\bin\Debug\OGL.pdb
+C:\Users\Александр\Desktop\цууцукц\OGL\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Александр\Desktop\цууцукц\OGL\obj\x86\Debug\OGL.Form1.resources
+C:\Users\Александр\Desktop\цууцукц\OGL\obj\x86\Debug\OGL.Properties.Resources.resources
+C:\Users\Александр\Desktop\цууцукц\OGL\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Александр\Desktop\цууцукц\OGL\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Александр\Desktop\надюха\OGL\bin\Debug\OGL.exe.config
+C:\Users\Александр\Desktop\надюха\OGL\obj\x86\Debug\OGL.exe
+C:\Users\Александр\Desktop\надюха\OGL\obj\x86\Debug\OGL.pdb
+J:\надюха\OGL\bin\Debug\OGL.exe.config
+J:\надюха\OGL\obj\x86\Debug\OGL.exe
+J:\надюха\OGL\obj\x86\Debug\OGL.pdb
+F:\надюха\OGL\bin\Debug\OGL.exe.config
+F:\надюха\OGL\obj\x86\Debug\OGL.exe
+F:\надюха\OGL\obj\x86\Debug\OGL.pdb
+F:\надюха\OGL\bin\Debug\OGL.exe
+F:\надюха\OGL\bin\Debug\OGL.pdb
+F:\надюха\OGL\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\надюха\OGL\obj\x86\Debug\OGL.Form1.resources
+F:\надюха\OGL\obj\x86\Debug\OGL.Properties.Resources.resources
+F:\надюха\OGL\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\надюха\OGL\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Александр\Desktop\надюха КОМ\OGL\bin\Debug\OGL.exe.config
+C:\Users\Александр\Desktop\надюха КОМ\OGL\obj\x86\Debug\OGL.exe
+C:\Users\Александр\Desktop\надюха КОМ\OGL\obj\x86\Debug\OGL.pdb
+C:\Users\Александр\Desktop\надюха КОМ\OGL\bin\Debug\OGL.exe
+C:\Users\Александр\Desktop\надюха КОМ\OGL\bin\Debug\OGL.pdb
+C:\Users\Александр\Desktop\надюха КОМ\OGL\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Александр\Desktop\надюха КОМ\OGL\obj\x86\Debug\OGL.Form1.resources
+C:\Users\Александр\Desktop\надюха КОМ\OGL\obj\x86\Debug\OGL.Properties.Resources.resources
+C:\Users\Александр\Desktop\надюха КОМ\OGL\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Александр\Desktop\надюха КОМ\OGL\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Александр\Desktop\Леха\OGL\bin\Debug\OGL.exe.config
+C:\Users\Александр\Desktop\Леха\OGL\obj\x86\Debug\OGL.exe
+C:\Users\Александр\Desktop\Леха\OGL\obj\x86\Debug\OGL.pdb
+D:\Леха\OGL\bin\Debug\OGL.exe.config
+D:\Леха\OGL\obj\x86\Debug\OGL.exe
+D:\Леха\OGL\obj\x86\Debug\OGL.pdb
+D:\Леха\OGL\bin\Debug\OGL.exe
+D:\Леха\OGL\bin\Debug\OGL.pdb
+D:\Леха\OGL\bin\Debug\Tao.DevIl.dll
+D:\Леха\OGL\bin\Debug\Tao.FreeGlut.dll
+D:\Леха\OGL\bin\Debug\Tao.OpenGl.dll
+D:\Леха\OGL\bin\Debug\Tao.Platform.Windows.dll
+D:\Леха\OGL\bin\Debug\Tao.DevIl.xml
+D:\Леха\OGL\bin\Debug\Tao.FreeGlut.xml
+D:\Леха\OGL\bin\Debug\Tao.OpenGl.xml
+D:\Леха\OGL\bin\Debug\Tao.Platform.Windows.xml
+D:\Леха\OGL\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Леха\OGL\obj\x86\Debug\OGL.Form1.resources
+D:\Леха\OGL\obj\x86\Debug\OGL.Properties.Resources.resources
+D:\Леха\OGL\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Леха\OGL\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Admin\Рабочий стол\КГ 3 лаба\OGL\bin\Debug\OGL.exe.config
+C:\Documents and Settings\Admin\Рабочий стол\КГ 3 лаба\OGL\obj\x86\Debug\OGL.exe
+C:\Documents and Settings\Admin\Рабочий стол\КГ 3 лаба\OGL\obj\x86\Debug\OGL.pdb
+C:\Documents and Settings\Admin\Рабочий стол\КГ 3 лаба\OGL\bin\Debug\OGL.exe
+C:\Documents and Settings\Admin\Рабочий стол\КГ 3 лаба\OGL\bin\Debug\OGL.pdb
+C:\Documents and Settings\Admin\Рабочий стол\КГ 3 лаба\OGL\bin\Debug\Tao.DevIl.dll
+C:\Documents and Settings\Admin\Рабочий стол\КГ 3 лаба\OGL\bin\Debug\Tao.FreeGlut.dll
+C:\Documents and Settings\Admin\Рабочий стол\КГ 3 лаба\OGL\bin\Debug\Tao.OpenGl.dll
+C:\Documents and Settings\Admin\Рабочий стол\КГ 3 лаба\OGL\bin\Debug\Tao.Platform.Windows.dll
+C:\Documents and Settings\Admin\Рабочий стол\КГ 3 лаба\OGL\bin\Debug\Tao.DevIl.xml
+C:\Documents and Settings\Admin\Рабочий стол\КГ 3 лаба\OGL\bin\Debug\Tao.FreeGlut.xml
+C:\Documents and Settings\Admin\Рабочий стол\КГ 3 лаба\OGL\bin\Debug\Tao.OpenGl.xml
+C:\Documents and Settings\Admin\Рабочий стол\КГ 3 лаба\OGL\bin\Debug\Tao.Platform.Windows.xml
+C:\Documents and Settings\Admin\Рабочий стол\КГ 3 лаба\OGL\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Admin\Рабочий стол\КГ 3 лаба\OGL\obj\x86\Debug\OGL.Form1.resources
+C:\Documents and Settings\Admin\Рабочий стол\КГ 3 лаба\OGL\obj\x86\Debug\OGL.Properties.Resources.resources
+C:\Documents and Settings\Admin\Рабочий стол\КГ 3 лаба\OGL\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Admin\Рабочий стол\КГ 3 лаба\OGL\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\уёба\лабы КГ\Лабы мои\КГ 3 лаба\OGL\bin\Debug\OGL.exe.config
+D:\уёба\лабы КГ\Лабы мои\КГ 3 лаба\OGL\obj\x86\Debug\OGL.exe
+D:\уёба\лабы КГ\Лабы мои\КГ 3 лаба\OGL\obj\x86\Debug\OGL.pdb
+S:\учеба\кг\лабы КГ\лабы КГ\Лабы мои\КГ 3 лаба\OGL\bin\Debug\OGL.exe.config
+S:\учеба\кг\лабы КГ\лабы КГ\Лабы мои\КГ 3 лаба\OGL\obj\x86\Debug\OGL.exe
+S:\учеба\кг\лабы КГ\лабы КГ\Лабы мои\КГ 3 лаба\OGL\obj\x86\Debug\OGL.pdb
