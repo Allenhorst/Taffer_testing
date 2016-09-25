@@ -119,3 +119,20 @@ D:\уёба\лабы КГ\Лабы мои\КГ 3 лаба\OGL\obj\x86\Debug\OGL.
 S:\учеба\кг\лабы КГ\лабы КГ\Лабы мои\КГ 3 лаба\OGL\bin\Debug\OGL.exe.config
 S:\учеба\кг\лабы КГ\лабы КГ\Лабы мои\КГ 3 лаба\OGL\obj\x86\Debug\OGL.exe
 S:\учеба\кг\лабы КГ\лабы КГ\Лабы мои\КГ 3 лаба\OGL\obj\x86\Debug\OGL.pdb
+S:\Taffer_testing\OGL\bin\Debug\OGL.exe.config
+S:\Taffer_testing\OGL\obj\x86\Debug\OGL.exe
+S:\Taffer_testing\OGL\obj\x86\Debug\OGL.pdb
+S:\Taffer_testing\OGL\bin\Debug\OGL.exe
+S:\Taffer_testing\OGL\bin\Debug\OGL.pdb
+S:\Taffer_testing\OGL\bin\Debug\Tao.DevIl.dll
+S:\Taffer_testing\OGL\bin\Debug\Tao.FreeGlut.dll
+S:\Taffer_testing\OGL\bin\Debug\Tao.OpenGl.dll
+S:\Taffer_testing\OGL\bin\Debug\Tao.Platform.Windows.dll
+S:\Taffer_testing\OGL\bin\Debug\Tao.DevIl.xml
+S:\Taffer_testing\OGL\bin\Debug\Tao.FreeGlut.xml
+S:\Taffer_testing\OGL\bin\Debug\Tao.OpenGl.xml
+S:\Taffer_testing\OGL\bin\Debug\Tao.Platform.Windows.xml
+S:\Taffer_testing\OGL\obj\x86\Debug\OGL.csprojResolveAssemblyReference.cache
+S:\Taffer_testing\OGL\obj\x86\Debug\OGL.Form1.resources
+S:\Taffer_testing\OGL\obj\x86\Debug\OGL.Properties.Resources.resources
+S:\Taffer_testing\OGL\obj\x86\Debug\OGL.csproj.GenerateResource.Cache
